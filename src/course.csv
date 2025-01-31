@@ -1,0 +1,37 @@
+course_id,course_name,prerequisites
+1,Calculus,NULL
+2,"Engineering Electromagnetics",NULL
+3,"Electrical Circuits for Engineers",NULL
+4,"Problem Solving and Programming",NULL
+5,"Materials for Engineers",NULL
+6,"Foundation for Engineering and Product Design",NULL
+7,"Engineering Electromagnetics Practice",NULL
+8,"Problem Solving and Programming Practice",NULL
+9,"Effective Language and Communication Skills",NULL
+10,"Differential Equations",NULL
+11,"Data Structures and Algorithms","Problem Solving and Programming"
+12,"Discrete Structures for Computer Science",NULL
+13,"Engineering Graphics",NULL
+14,"Design and Manufacturing Lab",NULL
+15,"Data Structures and Algorithms Practice",NULL
+16,"Sociology of Design","Foundation for Engineering and Product Design"
+17,"Systems Thinking for Design","Sociology of Design"
+18,"Object-Oriented Programming",NULL
+19,"Digital System Design",NULL
+20,"Design and Analysis of Algorithms","Data Structures and Algorithms"
+21,"Digital System Design Practice",NULL
+22,"Design and Analysis of Algorithms Practice","Design and Analysis of Algorithms"
+23,"Smart Product Design","Systems Thinking for Design"
+24,"Computer Organization and Architecture",NULL
+25,"Database Systems",NULL
+26,"Theory of Computation","Discrete Structures for Computer Science"
+27,"Computer Organization and Architecture Practice",NULL
+28,"Database Systems Practice",NULL
+29,"Operating Systems","Computer Organization and Architecture"
+30,"Computer Networks",NULL
+31,"Compiler Design","Theory of Computation"
+32,"Operating Systems Practice",NULL
+33,"Computer Networks Practice",NULL
+34,"Compiler Design Practice",NULL
+35,Internship,NULL
+36,Project/Coursework,NULL
