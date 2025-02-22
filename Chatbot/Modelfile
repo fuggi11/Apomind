@@ -1,0 +1,19 @@
+FROM mistral
+
+PARAMETER temperature 0.7
+
+SYSTEM "You classify responses into Concrete, Logical, Theoretical, Practical, and Intuitive thinking styles."
+
+FROM "corrected_data.jsonl"
+
+
+
+
+
+
+
+
+
+
+
+
